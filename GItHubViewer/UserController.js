@@ -1,4 +1,4 @@
-(function () { //IFFY
+﻿(function () { //IFFY
 
     var app = angular.module("githubViewer", []);
 
